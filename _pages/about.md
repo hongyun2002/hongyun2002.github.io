@@ -19,7 +19,7 @@ redirect_from:
 
 I'm an undergraduate student in [Kuang Yaming Honors School](https://dii.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/).
 
-My research interest includes artificial intelligence and machine learning. Now I'm focusing in the field of natual language processing, supervised by Prof. [Yang Feng](https://people.ucas.edu.cn/~yangfeng?language=en). I have also done some work related to AI for science before, supervised by Prof. [Wujun Li](http://cs.nju.edu.cn/lwj).
+My research interest includes artificial intelligence and machine learning. Now I'm focusing on the field of natual language processing, supervised by Prof. [Yang Feng](https://people.ucas.edu.cn/~yangfeng?language=en). I have also done some work related to AI for science before, supervised by Prof. [Wujun Li](http://cs.nju.edu.cn/lwj).
 
 
 # 🔥 News
