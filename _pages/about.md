@@ -50,8 +50,5 @@ Jin Han\*, **Yun Hong\*(co-first author)**, Wujun Li
 # 📖 Educations
 - *2021.09 - 2025.06*, Nanjing University. 
 
-//# 💬 Invited Talks
-//- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.07 - 2024.05*, [BigAI Group](https://bigai-nju.github.io/homepage/), Nanjing University.
