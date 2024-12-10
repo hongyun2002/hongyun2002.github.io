@@ -39,13 +39,11 @@ Jin Han\*, **Yun Hong\*(co-first author)**, Wujun Li
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 
 # 🎖 Honors and Awards
-- *2022/2023/2024* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022/2023/2024* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2024* Yangyongman Scholar
+- [2022/2023/2024] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [2022/2023/2024] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- [2024] Yang Yongman Scholar
 
 # 📖 Educations
 - *2021.09 - 2025.06*, Nanjing University. 
