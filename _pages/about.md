@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an undergraduate student in Nanjing University.
+I'm an undergraduate student in [Kuang Yaming Honors School](https://dii.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes artificial intelligence and machine learning. Now I'm focusing in the field of natual language processing. I have also done some work related to AI for science before.
 
 
 # 🔥 News
