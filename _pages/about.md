@@ -26,6 +26,18 @@ I'm a Master's student at the Institute of Computing Technology, Chinese Academy
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FreezeEmpath: Efficient Training for Empathetic Spoken Chatbots with Frozen LLMs](https://arxiv.org/abs/2604.18159)
+
+**Yun Hong**, Yan Zhou, Yang Feng
+
+[**Project**](https://github.com/ictnlp/FreezeEmpath) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- An efficient method for training empathetic speech LLMs.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -38,17 +50,7 @@ Jin Han\*, **Yun Hong\*(co-first author)**, Wujun Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[FreezeEmpath: Efficient Training for Empathetic Spoken Chatbots with Frozen LLMs](https://arxiv.org/abs/2604.18159)
-
-**Yun Hong**, Yan Zhou, Yang Feng
-
-[**Project**](https://github.com/ictnlp/FreezeEmpath) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- An efficient method for training empathetic speech LLMs.
-</div>
-</div>
 
 
 # 🎖 Honors and Awards
