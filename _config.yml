@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yun Hong（洪运）"
   avatar           : "images/apple-touch-icon.png"
-  bio              : "Nanjing University"
-  location         : "Nanjing, China"
+  bio              : "ICT, UCAS"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2ul-8PsAAAAJ"
-  email            : "hongy@smail.nju.edu.cn"
+  email            : "hongyun25@mails.ucas.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
