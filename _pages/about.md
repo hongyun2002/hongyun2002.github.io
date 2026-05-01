@@ -23,9 +23,10 @@ My research interest includes artificial intelligence and machine learning. Now 
 
 
 # 🔥 News
+- *2026.4*: &nbsp;🎉 Two papers accepted to ACL 2026. 
 - *2024.12*: &nbsp;🎉 One paper accepted to AAAI 2025. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,15 +40,28 @@ Jin Han\*, **Yun Hong\*(co-first author)**, Wujun Li
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FreezeEmpath: Efficient Training for Empathetic Spoken Chatbots with Frozen LLMs](https://arxiv.org/abs/2604.18159)
+
+**Yun Hong\*(co-first author)**, Yan Zhou, Yang Feng
+
+[**Project**](https://arxiv.org/abs/2604.18159) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- An efficient method for training empathetic speech LLMs.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - Yang Yongman Scholarship, *2024*
 - Basic Discipline Special Scholarship, *2022/2023/2024*
 - Renmin Scholarship, *2022/2023/2024*
-- Meritorious Winner of Mathematical Contest In Modeling, *2023*
+- Meritorious Winner of Mathematical Contest in Modeling, *2023*
 
 # 📖 Educations
-- *2021.09 - now*, Nanjing University. 
+- *2025.09 - now*, Institute of Computing Technology, Chinese Academy of Sciences. 
+- *2021.09 - 2025.06*, Nanjing University. 
 
 # 💻 Internships
 - *2024.09 - now*, [Natural Language Processing Group](https://nlp.ict.ac.cn/), Institute of Computing Technology, Chinese Academy of Sciences.
