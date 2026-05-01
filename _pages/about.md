@@ -43,7 +43,7 @@ Jin Han\*, **Yun Hong\*(co-first author)**, Wujun Li
 
 [FreezeEmpath: Efficient Training for Empathetic Spoken Chatbots with Frozen LLMs](https://arxiv.org/abs/2604.18159)
 
-**Yun Hong\*(co-first author)**, Yan Zhou, Yang Feng
+**Yun Hong**, Yan Zhou, Yang Feng
 
 [**Project**](https://github.com/ictnlp/FreezeEmpath) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - An efficient method for training empathetic speech LLMs.
