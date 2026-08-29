@@ -87,6 +87,11 @@
 
 }
 
+// Keep the first publication card visually connected to its section heading.
+.page__content h1 + .paper-box {
+    padding-top: 0.75em;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
