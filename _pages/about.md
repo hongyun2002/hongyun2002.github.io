@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Master's student at the Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS), advised by Prof. [Yang Feng](https://people.ucas.edu.cn/~yangfeng?language=en) at the ICT Natural Language Processing (ICTNLP) group. My research interests include artificial intelligence and machine learning. Now I'm focusing on the field of speech large language models. I have also done some work related to AI for science before, supervised by Prof. [Wujun Li](http://cs.nju.edu.cn/lwj).
+I'm a Master's student at the Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS), advised by Prof. [Yang Feng](https://people.ucas.edu.cn/~yangfeng?language=en) at the ICT Natural Language Processing (ICTNLP) group. My current research focuses on speech large language models. I have also done some work related to AI for science before, supervised by Prof. [Wujun Li](http://cs.nju.edu.cn/lwj).
 
 
 # 🔥 News
