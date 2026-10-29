@@ -75,7 +75,20 @@
   .paper-figure:hover { border-color: #b8c9dd; }
   .figure-hint { position: absolute; bottom: 0; right: 0; padding: 2px 6px; border-radius: 4px 0 0 0; background: rgba(255, 255, 255, .95); font-size: 10px; line-height: 1.6; color: var(--muted); }
   .paper-content { min-width: 0; }
-  .page__content .paper-venue { margin: 0 0 7px; color: var(--blue); font-size: 11px; line-height: 1.4; font-weight: 600; letter-spacing: .055em; text-transform: uppercase; }
+  .page__content .paper-venue {
+    display: inline-block;
+    margin: 0 0 9px;
+    padding: 3px 9px;
+    border: 1px solid #dbe4ee;
+    border-radius: 5px;
+    background: #f4f7fb;
+    color: var(--blue);
+    font-size: 12px;
+    line-height: 1.45;
+    font-weight: 600;
+    letter-spacing: normal;
+    text-transform: none;
+  }
   .publication h3 { margin: 0 0 7px; font-size: 17px; font-weight: 650; line-height: 1.42; letter-spacing: -.01em; }
   .publication h3 a { color: var(--ink); }
   .page__content .paper-authors { margin: 0 0 7px; font-size: 13px; line-height: 1.5; color: #566477; }
