@@ -1,0 +1,40 @@
+- id: hybridemo
+  title: "Sequential Trajectories and Simultaneous Blending: Multi-Emotion Modeling for Instruction-Following TTS"
+  authors: "Yan Zhou, <strong>Yun Hong</strong>, Yang Feng"
+  venue: "arXiv preprint · 2026"
+  image: /images/hybridemo.png
+  image_alt: "HybridEmo training framework with separate rewards for emotional trajectories and blends"
+  summary: "Instruction-following speech synthesis with sequential emotional trajectories and simultaneous emotion blending."
+  paper: https://arxiv.org/abs/2608.30325
+  code: https://github.com/ictnlp/HybridEmo
+  demo: https://zhouyan19.github.io/HybridEmo-demo/
+
+- id: freezeempath
+  title: "FreezeEmpath: Efficient Training for Empathetic Spoken Chatbots with Frozen LLMs"
+  authors: "<strong>Yun Hong</strong>, Yan Zhou, Yang Feng"
+  venue: "Findings of ACL · 2026"
+  image: /images/2.png
+  image_alt: "FreezeEmpath architecture for empathetic speech interaction with a frozen language model"
+  summary: "Efficient training of empathetic spoken chatbots with a frozen LLM, preserving general capabilities while generating expressive speech."
+  paper: https://aclanthology.org/2026.findings-acl.846/
+  code: https://github.com/ictnlp/FreezeEmpath
+
+- id: cslm
+  title: "Efficient Training for Cross-lingual Speech Language Models"
+  authors: "Yan Zhou, Qingkai Fang, <strong>Yun Hong</strong>, Yang Feng"
+  venue: "Findings of ACL · 2026"
+  image: /images/cslm.png
+  image_alt: "CSLM training and speech–text interleaved generation framework"
+  summary: "Cross-modal and cross-lingual alignment for speech LLMs through continual pre-training and interleaved speech–text generation."
+  paper: https://aclanthology.org/2026.findings-acl.642/
+  code: https://github.com/ictnlp/CSLM
+
+- id: drughash
+  title: "DrugHash: Hashing Based Contrastive Learning for Virtual Screening"
+  authors: "Jin Han*, <strong>Yun Hong*</strong>, Wu-Jun Li"
+  venue: "AAAI · 2025"
+  image: /images/1.png
+  image_alt: "DrugHash framework for efficient molecular retrieval with learned binary hash codes"
+  summary: "Hashing-based contrastive learning for fast, memory-efficient virtual screening of large molecular libraries."
+  paper: https://ojs.aaai.org/index.php/AAAI/article/view/33873
+  arxiv: https://arxiv.org/abs/2407.19790

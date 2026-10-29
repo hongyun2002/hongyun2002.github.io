@@ -6,8 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hi"
-description              : "Welcome to Yun Hong's homepage. "
+title                    : "Yun Hong's Homepage"
+description              : "Yun Hong is a master's student at ICT/CAS working on speech large language models, empathetic spoken dialogue, expressive speech generation, and cross-lingual speech–language alignment."
+url                      : "https://hongyun2002.github.io"
 repository               : "hongyun2002/hongyun2002.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : hongyun2002# e.g., "github username"
+  github           : hongyun2002
   google_plus      :
   keybase          :
   instagram        :

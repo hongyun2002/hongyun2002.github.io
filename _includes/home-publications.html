@@ -1,0 +1,29 @@
+<div class="publication-list">
+{% for paper in site.data.publications %}
+  <article class="publication" aria-labelledby="{{ paper.id }}-title">
+    <a class="paper-figure" href="{{ paper.image | relative_url }}" aria-label="Enlarge figure: {{ paper.title | escape }}">
+      <img src="{{ paper.image | relative_url }}" alt="{{ paper.image_alt | escape }}" loading="lazy" decoding="async">
+      <span class="figure-hint" aria-hidden="true">Enlarge <span>↗</span></span>
+    </a>
+    <div class="paper-content">
+      <p class="paper-venue">{{ paper.venue }}</p>
+      <h3 id="{{ paper.id }}-title"><a href="{{ paper.paper }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a></h3>
+      <p class="paper-authors">{{ paper.authors }}</p>
+      <p class="paper-summary">{{ paper.summary }}</p>
+      <div class="paper-actions" aria-label="Resources for {{ paper.id }}">
+        <a href="{{ paper.paper }}" target="_blank" rel="noopener noreferrer">Paper</a>
+        {% if paper.code %}<a href="{{ paper.code }}" target="_blank" rel="noopener noreferrer">Code</a>{% endif %}
+        {% if paper.demo %}<a href="{{ paper.demo }}" target="_blank" rel="noopener noreferrer">Demo</a>{% endif %}
+        {% if paper.arxiv %}<a href="{{ paper.arxiv }}" target="_blank" rel="noopener noreferrer">arXiv</a>{% endif %}
+        <a href="{{ '/files/citations/' | append: paper.id | append: '.bib' | relative_url }}" download>BibTeX</a>
+      </div>
+    </div>
+  </article>
+{% endfor %}
+</div>
+
+<dialog class="figure-dialog" aria-label="Publication figure">
+  <button class="figure-close" type="button" aria-label="Close enlarged figure" autofocus>Close <span aria-hidden="true">×</span></button>
+  <img class="figure-full" alt="">
+  <p class="figure-caption"></p>
+</dialog>

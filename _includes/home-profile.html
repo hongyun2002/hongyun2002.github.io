@@ -1,0 +1,14 @@
+<aside class="home-profile" aria-label="Personal information" itemscope itemtype="https://schema.org/Person">
+  <img class="profile-photo" src="{{ site.author.avatar | relative_url }}" alt="Yun Hong" width="160" height="160" itemprop="image">
+  <div class="profile-info">
+    <h1 class="profile-name" itemprop="name">Yun Hong <span lang="zh">洪运</span></h1>
+    <p class="profile-role">Master's student</p>
+    <p class="profile-affiliation">ICT, Chinese Academy of Sciences<br>University of Chinese Academy of Sciences</p>
+    <p class="profile-location"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> Beijing, China</p>
+    <div class="profile-links">
+      <a class="profile-email" href="mailto:{{ site.author.email }}" itemprop="email"><i class="fas fa-envelope" aria-hidden="true"></i> {{ site.author.email }}</a>
+      <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a>
+      <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
+    </div>
+  </div>
+</aside>
